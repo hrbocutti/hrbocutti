@@ -6,10 +6,10 @@
 ### <div align="center">I'm Higor Bocutti, a backend specialist developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Penseapp](https://github.com/penseapp)  
+- 🔭 I’m currently working on [MercadoLivre](https://www.mercadolivre.com/)  
   
 
-- 🌱 I’m currently learning Golang, NodeJs and Kubernetes  
+- 🌱 I’m currently learning Java, Golang, NodeJs and Kubernetes  
   
 
 - ❓ Ask me about anything related to backend technologies  
